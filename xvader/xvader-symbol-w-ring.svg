@@ -21,11 +21,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="0.81741573"
-     inkscape:cx="-99.704467"
-     inkscape:cy="163.31959"
+     inkscape:zoom="0.81741574"
+     inkscape:cx="168.21306"
+     inkscape:cy="388.41924"
      inkscape:window-width="1458"
-     inkscape:window-height="1088"
+     inkscape:window-height="1062"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -45,7 +45,7 @@
          offset="0.42"
          stop-color="#dab6c2"
          id="stop4"
-         style="stop-color:#9b7ebf;stop-opacity:1" />
+         style="stop-color:#f22c85;stop-opacity:1" />
       <stop
          offset="0.96041781"
          stop-color="#b8a0aa"
@@ -60,7 +60,7 @@
        y2="207"
        gradientUnits="userSpaceOnUse">
       <stop
-         offset="0.42"
+         offset="0.33342761"
          stop-color="#dab6c2"
          id="stop9"
          style="stop-color:#dfb1c0;stop-opacity:1" />
@@ -72,7 +72,7 @@
     </linearGradient>
     <linearGradient
        id="linear-gradient-3"
-       x1="128.99"
+       x1="128.99001"
        y1="207"
        x2="128.99"
        y2="82"
@@ -81,9 +81,9 @@
          offset="0.09652914"
          stop-color="#dab6c2"
          id="stop14"
-         style="stop-color:#f49cbd;stop-opacity:1" />
+         style="stop-color:#f5b8cf;stop-opacity:1" />
       <stop
-         offset="1"
+         offset="0.72981447"
          stop-color="#6a3a4f"
          id="stop16"
          style="stop-color:#a00a4c;stop-opacity:1" />
