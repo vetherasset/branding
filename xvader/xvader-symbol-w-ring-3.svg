@@ -3,8 +3,11 @@
    version="1.1"
    viewBox="0 0 267.22 267.22"
    id="svg1014"
-   sodipodi:docname="xvader-symbol-w-ring-2.svg"
+   sodipodi:docname="xvader-symbol-w-ring-3.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="/home/augustin/branding/xvader/xvader-symbol-w-ring-2.png"
+   inkscape:export-xdpi="71.910004"
+   inkscape:export-ydpi="71.910004"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -18,9 +21,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="1.1550487"
-     inkscape:cx="-65.365211"
-     inkscape:cy="169.68982"
+     inkscape:zoom="6.5339421"
+     inkscape:cx="169.80561"
+     inkscape:cy="175.85096"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -66,7 +69,7 @@
          stop-color="#38e9fd"
          offset="1"
          id="stop992"
-         style="stop-color:#e1abab;stop-opacity:1" />
+         style="stop-color:#ca7272;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-3"
@@ -79,7 +82,7 @@
          stop-color="#ff9ddb"
          offset="0.52609152"
          id="stop995"
-         style="stop-color:#b00e0e;stop-opacity:1" />
+         style="stop-color:#c01010;stop-opacity:1" />
       <stop
          stop-color="#ffc8ff"
          offset="1"

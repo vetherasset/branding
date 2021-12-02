@@ -3,10 +3,14 @@
    version="1.1"
    viewBox="0 0 267.22 267.22"
    id="svg1014"
-   sodipodi:docname="xvader-symbol-w-ring-2.svg"
+   sodipodi:docname="xvader-symbol-w-ring-4.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="/home/augustin/branding/xvader/xvader-symbol-w-ring-2.png"
+   inkscape:export-xdpi="71.910004"
+   inkscape:export-ydpi="71.910004"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -18,9 +22,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="1.1550487"
-     inkscape:cx="-65.365211"
-     inkscape:cy="169.68982"
+     inkscape:zoom="1.6334855"
+     inkscape:cx="137.43617"
+     inkscape:cy="39.180022"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -48,7 +52,7 @@
          stop-color="#ff9ddb"
          offset="1"
          id="stop987"
-         style="stop-color:#a60c0c;stop-opacity:1" />
+         style="stop-color:#b50d0d;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-2"
@@ -66,20 +70,21 @@
          stop-color="#38e9fd"
          offset="1"
          id="stop992"
-         style="stop-color:#e1abab;stop-opacity:1" />
+         style="stop-color:#ca7272;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-3"
        x1="127.93"
        x2="127.93"
-       y1="207.1"
+       y1="207.10001"
        y2="82.940002"
-       gradientUnits="userSpaceOnUse">
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linear-gradient-2">
       <stop
          stop-color="#ff9ddb"
          offset="0.52609152"
          id="stop995"
-         style="stop-color:#b00e0e;stop-opacity:1" />
+         style="stop-color:#c01010;stop-opacity:1" />
       <stop
          stop-color="#ffc8ff"
          offset="1"
@@ -112,7 +117,7 @@
          class="cls-3"
          d="M87.49,83.06l-.06-.12H47.54l.06.12,6.09,12.31H93.35Zm81.45-.12-36.8,77.51-3.32,7h-1.11l-11.77-24.69-5.86-12.3h-39l6.11,12.3,31.9,64.34h37.65L208.32,82.94Zm-64.29,36.13-5.88-12.32H59.35l6.11,12.32Z"
          id="path1008"
-         style="fill:url(#linear-gradient-3)" />
+         style="fill:url(#linear-gradient-3);fill-opacity:1.0" />
     </g>
   </g>
 </svg>
